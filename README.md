@@ -6,5 +6,6 @@ They want to discover key insights from their customer database. The following K
 3. Importance of products
 4. Preferred mode of shipment
 5. Promptness of shipment completion
-6. Warehouse blocks usage (the company has 5 different warehouse blocks)
+6. Warehouse blocks usage (the company has 5 different warehouse blocks)     
+
 As the data Analyst,  you have been asked to generate actionable insights on them using the company’s customer data.
